@@ -16,7 +16,7 @@ Welcome to my GitHub space!
 
 ### 📫 Contact
 
-- **Email:** guidokl@pm.me (ProtonMail)
+- **Email:** guidokl@pm.me
 - **GitHub:** [github.com/guidokl](https://github.com/guidokl)
 - **PGP:** [2893 984B 041C 6F68 986D D547 02B6 91B8 2AF6 EC8A](https://keys.openpgp.org/vks/v1/by-fingerprint/2893984B041C6F68986DD54702B691B82AF6EC8A)
 
