@@ -1,16 +1,25 @@
-## Hi there 👋
+## 👋 Hi, I'm Guido Kleine
 
-<!--
-**guidokl/guidokl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**IT & Tech Enthusiast · Software Development Trainee**
 
-Here are some ideas to get you started:
+Welcome to my GitHub space!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Training as a Software Developer (Fachinformatiker für Anwendungsentwicklung)
+- 🧑‍💻 Currently into C#, Python and SQL
+- 🐧 Expanding my Linux knowledge
+- 🎶 Passionate about creating music with computers, synthesizers and guitar
+- 📚 Fan of sci-fi literature and movies
+- 🐇 Frequently found wandering down rabbit holes
+- 🚀 Always learning and experimenting with tech and creative tools
+
+---
+
+### 📫 Contact
+
+- **Email:** guidokl@pm.me (ProtonMail)
+- **GitHub:** [github.com/guidokl](https://github.com/guidokl)
+- **PGP:** [2893 984B 041C 6F68 986D D547 02B6 91B8 2AF6 EC8A](https://keys.openpgp.org/vks/v1/by-fingerprint/2893984B041C6F68986DD54702B691B82AF6EC8A)
+
+---
+
+> *Always happy to connect with fellow tech and music enthusiasts!*
