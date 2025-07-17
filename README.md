@@ -22,4 +22,4 @@ Welcome to my GitHub space!
 
 ---
 
-> *Always happy to connect with fellow tech and music enthusiasts!*
+> *Happy to connect with fellow tech and music enthusiasts!*
