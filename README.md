@@ -4,7 +4,7 @@
 
 Welcome to my GitHub space!
 
-- 💻 Training as a Software Developer (Fachinformatiker für Anwendungsentwicklung)
+- 💻 Training as a Software Developer
 - 🧑‍💻 Currently into C#, Python and SQL
 - 🐧 Expanding my Linux knowledge
 - 🎶 Passionate about creating music with computers, synthesizers and guitar
