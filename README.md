@@ -18,7 +18,7 @@ Welcome to my GitHub space!
 
 - **Email:** guidokl@pm.me
 - **GitHub:** [github.com/guidokl](https://github.com/guidokl)
-- **PGP:** [2893 984B 041C 6F68 986D D547 02B6 91B8 2AF6 EC8A](https://keys.openpgp.org/vks/v1/by-fingerprint/2893984B041C6F68986DD54702B691B82AF6EC8A)
+- **PGP:** [1C81 9E6F 1A64 7F67 4E2F B3A4 5103 2EE5 C7EF B7A0](https://keys.openpgp.org/vks/v1/by-fingerprint/1C819E6F1A647F674E2FB3A451032EE5C7EFB7A0)
 
 ---
 
