@@ -9,7 +9,7 @@ Welcome to my GitHub space!
 - 🐧 Expanding my Linux knowledge
 - 🎶 Passionate about creating music with computers, synthesizers and guitar
 - 📚 Fan of sci-fi literature and movies
-- 🐇 Frequently found wandering down rabbit holes
+- 🐇 Explorer of rabbit holes
 - 🚀 Always learning and experimenting with tech and creative tools
 
 ---
