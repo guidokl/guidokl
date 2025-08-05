@@ -1,16 +1,14 @@
-## 👋 Hi, I'm Guido Kleine
+## Hello there 👋 
 
-**IT & Tech Enthusiast · Software Development Trainee**
-
+My name is Guido. I'm a passionate tech enthusiast and software development trainee based in Germany.
 Welcome to my GitHub space!
 
-- 💻 Training as a Software Developer
-- 🧙 Currently into C#, Python and SQL
+- 💻 Currently into C#, Python and SQL
 - 🐧 Expanding my Linux knowledge
-- 🎶 Passionate about creating music with computers, synthesizers and guitar
+- 🎶 Passionate about creating music - digital and analog
 - 📚 Fan of sci-fi literature and movies
 - 🐇 Explorer of rabbit holes
-- 🚀 Always learning and experimenting with tech and creative tools
+- 🚀 Always learning and experimenting
 
 ---
 
