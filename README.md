@@ -3,7 +3,7 @@
 My name is Guido. I'm a passionate tech enthusiast and software development trainee based in Germany.
 Welcome to my GitHub space!
 
-- 💻 Currently into C#, Python and SQL
+- 💻 Currently into C# and everything .NET
 - 🐧 Expanding my Linux knowledge
 - 🎶 Passionate about creating music - digital and analog
 - 📚 Fan of sci-fi literature and movies
