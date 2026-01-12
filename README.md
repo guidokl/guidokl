@@ -6,7 +6,6 @@ Welcome to my GitHub space!
 - <img src="https://api.iconify.design/tabler/code-asterisk.svg?color=%23ef8062" width="24" height="24" align="center"/> Currently into **C#** and **.NET**
 - <img src="https://api.iconify.design/tabler/telescope.svg?color=%23ef8062" width="24" height="24" align="center"/> Expanding my **Linux** knowledge
 - <img src="https://api.iconify.design/tabler/music-code.svg?color=%23ef8062" width="24" height="24" align="center"/> Experimenting with algorithmic music & visuals
-- <img src="https://api.iconify.design/tabler/rocket.svg?color=%23ef8062" width="24" height="24" align="center"/> Drawn to Sci-Fi, Space, Science, and C<sub>8</sub>H<sub>10</sub>N<sub>4</sub>O<sub>2</sub>
 
 ##
 
